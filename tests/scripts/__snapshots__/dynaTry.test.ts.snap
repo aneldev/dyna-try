@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dynaTry Success try 1`] = `
+Object {
+  "age": 34,
+  "name": "John Smith",
+}
+`;
+
+exports[`dynaTry Timeout 1`] = `
+Object {
+  "age": 34,
+  "name": "John Smith",
+}
+`;
+
+exports[`dynaTry With error 1`] = `
+Object {
+  "age": 34,
+  "name": "John Smith",
+}
+`;
