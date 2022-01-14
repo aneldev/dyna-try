@@ -13,10 +13,3 @@ Object {
   "name": "John Smith",
 }
 `;
-
-exports[`dynaTry With error 1`] = `
-Object {
-  "age": 34,
-  "name": "John Smith",
-}
-`;
