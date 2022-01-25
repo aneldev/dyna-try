@@ -1,4 +1,4 @@
-import {dynaTry} from "../../src/dynaTry";
+import {dynaTry} from "../../src";
 import {dynaError} from "dyna-error";
 
 interface IPerson {

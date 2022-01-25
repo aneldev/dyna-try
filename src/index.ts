@@ -1,1 +1,3 @@
-console.log('Hello world');
+export {
+  dynaTry,
+} from "./dynaTry";
