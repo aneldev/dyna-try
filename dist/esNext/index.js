@@ -1,2 +1,2 @@
-console.log('Hello world');
+export { dynaTry, } from "./dynaTry";
 //# sourceMappingURL=index.js.map
